@@ -8,33 +8,35 @@ const Project = () => {
           My <span className="highlight">Projects</span>
         </h2>
         <div className="projects-grid">
-          {/* Project Cards 1 */}
-          <div className="project-card fade-in delay-1">
+          {/* Project Cards 1 / Co-operative Site */}
+          <div className="project-card fade-in delay-3">
             <div className="project-image">
               <img
-                src="images/Santa.webp"
-                alt="Agency Website"
+                src="images/Someshwar.webp"
+                alt="Corporative Website"
                 loading="lazy"
               />
             </div>
             <div className="project-content">
-              <h3>Agency Website</h3>
-              <p>Full-featured For Agency</p>
+              <h3>Co-operative Website</h3>
+              <p>Corporate website with services, about and contact sections</p>
               <div className="project-tech">
-                <span>Google Sites (Lifetime Live Site)</span>
+                <span>React</span>
+                <span>Vite</span>
+                <span>CSS</span>
               </div>
               <a
-                href="https://raipravat.github.io/Santa-Agency"
+                href="https://www.someshwarudrakshya.coop.np"
                 className="project-link"
-                rel="noopener"
                 target="_blank"
+                rel="noopener"
               >
                 View Project
               </a>
             </div>
           </div>
 
-          {/* Project Cards 2 */}
+          {/* Project Cards 2 / Rajen Protfilio Site */}
           <div className="project-card fade-in delay-2">
             <div className="project-image">
               <img
@@ -55,7 +57,7 @@ const Project = () => {
                 <span>JavaScript</span>
               </div>
               <a
-                href="https://raipravat.github.io/Rajen-Rai"
+                href="https://rajen.info.np/"
                 className="project-link"
                 target="_blank"
                 rel="noopener"
@@ -65,42 +67,10 @@ const Project = () => {
             </div>
           </div>
 
-          {/* Project Cards 3 */}
-          <div className="project-card fade-in delay-3">
-            <div className="project-image">
-              <img
-                src="images/Someshwar.webp"
-                alt="Corporative Website"
-                loading="lazy"
-              />
-            </div>
-            <div className="project-content">
-              <h3>Corporative Website</h3>
-              <p>Corporate website with services, about and contact sections</p>
-              <div className="project-tech">
-                <span>WordPress</span>
-                <span>Elementor</span>
-                <span>CSS</span>
-              </div>
-              <a
-                href="https://www.someshwarudrakshya.coop.np"
-                className="project-link"
-                target="_blank"
-                rel="noopener"
-              >
-                View Project
-              </a>
-            </div>
-          </div>
-
-          {/* Project Cards 4 */}
+          {/* Project Cards 3 / Bzya Protfilio Site */}
           <div className="project-card fade-in delay-4">
             <div className="project-image">
-              <img
-                src="images/bzya.webp"
-                alt="Corporative Website"
-                loading="lazy"
-              />
+              <img src="images/bzya.webp" alt="Bzya" loading="lazy" />
             </div>
             <div className="project-content">
               <h3>Portfolio Website</h3>
@@ -114,7 +84,7 @@ const Project = () => {
                 <span>JS</span>
               </div>
               <a
-                href="https://raipravat.github.io/Bzya"
+                href="https://bijaya.info.np"
                 className="project-link"
                 target="_blank"
                 rel="noopener"
@@ -181,6 +151,32 @@ const Project = () => {
                 className="project-link"
                 target="_blank"
                 rel="noopener"
+              >
+                View Project
+              </a>
+            </div>
+          </div>
+
+          {/* Project Cards 1 */}
+          <div className="project-card fade-in delay-1">
+            <div className="project-image">
+              <img
+                src="images/Santa.webp"
+                alt="Agency Website"
+                loading="lazy"
+              />
+            </div>
+            <div className="project-content">
+              <h3>Agency Website</h3>
+              <p>Full-featured For Agency</p>
+              <div className="project-tech">
+                <span>Google Sites (Lifetime Live Site)</span>
+              </div>
+              <a
+                href="https://raipravat.github.io/Santa-Agency"
+                className="project-link"
+                rel="noopener"
+                target="_blank"
               >
                 View Project
               </a>
