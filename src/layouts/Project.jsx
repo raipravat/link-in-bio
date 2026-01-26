@@ -21,9 +21,10 @@ const Project = () => {
               <h3>Co-operative Website</h3>
               <p>Corporate website with services, about and contact sections</p>
               <div className="project-tech">
-                <span>React</span>
-                <span>Vite</span>
+                <span>HTML</span>
                 <span>CSS</span>
+                <span>JavaScript</span>
+                <span>React</span>
               </div>
               <a
                 href="https://www.someshwarudrakshya.coop.np"
@@ -46,7 +47,7 @@ const Project = () => {
               />
             </div>
             <div className="project-content">
-              <h3>Portfolio Website</h3>
+              <h3>Personal Portfolio Website</h3>
               <p>
                 Modern portfolio for creative professionals with gallery and
                 contact form
@@ -73,7 +74,7 @@ const Project = () => {
               <img src="images/bzya.webp" alt="Bzya" loading="lazy" />
             </div>
             <div className="project-content">
-              <h3>Portfolio Website</h3>
+              <h3>Personal Portfolio Website</h3>
               <p>
                 Clean, modern and user-friendly portfolio site—perfect for
                 showcasing creative work.
@@ -81,7 +82,7 @@ const Project = () => {
               <div className="project-tech">
                 <span>Html</span>
                 <span>CSS</span>
-                <span>JS</span>
+                <span>JavaScript</span>
               </div>
               <a
                 href="https://bijaya.info.np"
@@ -104,7 +105,7 @@ const Project = () => {
               />
             </div>
             <div className="project-content">
-              <h3>CV Website</h3>
+              <h3>Personal CV Website</h3>
               <p>
                 Professional CV website for showcasing skills, experience and
                 achievements in a clean, modern layout.
@@ -112,10 +113,10 @@ const Project = () => {
               <div className="project-tech">
                 <span>Html</span>
                 <span>CSS</span>
-                <span>JS</span>
+                <span>JavaScript</span>
               </div>
               <a
-                href="https://raipravat.github.io/Bisesh-Rai"
+                href="https://bisesh.com.np"
                 className="project-link"
                 target="_blank"
                 rel="noopener"
@@ -135,7 +136,7 @@ const Project = () => {
               />
             </div>
             <div className="project-content">
-              <h3>Insurance Website</h3>
+              <h3>Insurance Agent Website</h3>
               <p>
                 A modern website designed for insurance companies to showcase
                 services, engage clients, and streamline policy management
@@ -167,7 +168,7 @@ const Project = () => {
               />
             </div>
             <div className="project-content">
-              <h3>Agency Website</h3>
+              <h3>Insurance Agency Website</h3>
               <p>Full-featured For Agency</p>
               <div className="project-tech">
                 <span>Google Sites (Lifetime Live Site)</span>
