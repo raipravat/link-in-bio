@@ -80,11 +80,11 @@ const Header = () => {
               Testimonials
             </a>
           </li>
-          <li>
+         {/* <li>
             <a href="#blog" className="nav-link">
               Blogs
             </a>
-          </li>
+          </li> */}
           <li>
             <a href="#contact" className="nav-link">
               Contact
