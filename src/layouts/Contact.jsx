@@ -86,7 +86,7 @@ const Contact = () => {
             <h3>Contact Information</h3>
             <div className="info-item">
               <FaEnvelope className="fa-icon" />
-              <span>mr.raipravat@gmail.com</span>
+              <span>mr.raiprabhat@gmail.com</span>
             </div>
             <div className="info-item">
               <FaPhone className="fa-icon" />
