@@ -28,7 +28,7 @@ function App() {
       <Link />
       <Journey />
       <Testimonial />
-      <Blog />
+      {<Blog />}
       <Contact />
       <Footer />
     </>
